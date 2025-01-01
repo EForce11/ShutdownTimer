@@ -1,4 +1,4 @@
-# ShutdownTimer.sh
+# Shutdown Timer
 
 This simple Linux and Windows shell scripts is used to set a shutdown timer or cancel a scheduled shutdown. Check Windows and Linux directories to more information about usage.
 
